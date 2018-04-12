@@ -1,0 +1,32 @@
+.navbar {
+    border-bottom: 3px solid #dddddd;
+    margin-bottom: 15px;
+
+}
+
+.navbar-brand {
+    background-color: #4aaaa5;
+    padding: 30px;
+    font-weight: bold;
+}
+
+body {
+    background-image: url("images/concrete.png");
+}
+
+.card {
+    margin-top: 15px;
+    margin: auto;
+    text-align: center;
+}
+h5.card-title {
+    padding: 15px;
+    color: #4aaaa5;
+    border-bottom: 3px solid #dddddd;
+}
+
+footer {
+    height: 40px;
+    margin-top: 20px;
+    width: 100%;
+}
