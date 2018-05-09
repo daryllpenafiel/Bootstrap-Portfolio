@@ -83,6 +83,12 @@ figure {
     margin: auto;
 }
 
+.figure-caption a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+
 /*Bootstrap CSS for Sticky Footer*/
 
 html {
