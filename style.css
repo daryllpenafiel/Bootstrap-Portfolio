@@ -77,10 +77,11 @@ figure {
 .figure img {
     box-sizing: border-box;
     width: 18vw;
-    height: 18vw;
+    height: 12vw;
     object-fit: contain;
     border: solid 2px #cccccc;
     margin: auto;
+    background-color: black;
 }
 
 .figure-caption a {
